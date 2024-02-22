@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaelAlsigar
-- 👀 I’m interested in data science, bio informatics and AI
-- 🌱 I’m currently learning python, SQL, IBM cloud and C++
+- 👀 I’m interested in CyberSecurity, Data Analysis, bio informatics and AI
+- 🌱 I’m currently learning python, SQL, IBM cloud and Linux.
 - 💞️ I’m looking to collaborate on (open to anything)
 - 📫 How to reach me: Email wael.alsigar@gmail.com
 
